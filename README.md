@@ -12,7 +12,7 @@ This repository contains the code for a simple chat sever application developed 
 3. Make sure you are inside the project directory. Compile the application and build its release using the following command. 
 
     ```bash
-    BASH make
+    make
     ```
 
 5. Run the application using the following comamnd.
