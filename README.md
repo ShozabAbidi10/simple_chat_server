@@ -14,6 +14,10 @@ This repository contains the code for a simple chat sever application developed 
     ```bash
     make
     ```
+Note: Make sure you have all the dependencies install in your system such as erlang:25, rebar3 and telenet. The recommended option is to install the eralng:25 official docker image whcih will already have erlang and rebar3 pre-installed.
+```url
+https://www.erlang.org/downloads/25
+```
 
 ## How to run the application
 To run the application follow the steps mentioned below.
